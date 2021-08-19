@@ -1,0 +1,7 @@
+number = float(input("Digite numero:"))
+dobro = float(number*2)
+triplo = float (number*3)
+raiz = float (number**(0.5))
+print("O dobro é {}".format(dobro))
+print("O triplo é {}".format(triplo))
+print("A raiz é {}".format(raiz))
